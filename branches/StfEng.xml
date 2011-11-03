@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book lang='en'>
+    <title>Angry Birds</title>
+    <bookinfo>
+        <subtitle>Project Plan</subtitle>
+        <authorgroup>
+            <author>
+                <firstname>Group I</firstname>
+            </author>
+        </authorgroup>
+        <date>06/11/2011</date>
+    </bookinfo>
+    <preface>
+        <title>Preface</title>
+        <para>
+            This report is written as an assignment for the course Software Engineering. The report
+            written by all the members of the group 1 Angry Birds.
+        </para>
+    </preface>
+    
+    <chapter>
+        <title>Introduction</title>
+        <para>This section provides an overview of the software engineering project.</para>
+        <section>
+            <title>Project Scope</title>
+            <para>A description of the software is presented. Major inputs, processing functionality and outputs are described without regard to implementation detail.</para>
+        </section>
+        <section>
+            <title>Major software functions</title>
+            <para>A functional decomposition of the software (for use during estimation and scheduling) is developed here.</para>
+        </section>
+        <section>
+            <title>Performance/Behavior issues</title>
+            <para>Any special requirements for performance or behavior are noted here.</para>
+        </section>
+        <section>
+            <title>Management and technical constraints</title>
+            <para>Any special constraints that affect the manner in which the project will be conducted (e.g., limited resources or 'drop dead' delivery date) or the technical approach to development are noted here.</para>
+        </section>
+    </chapter>
+    
+    <chapter>
+        <title>Project Estimates</title>
+        <para>This section provides cost, effort and time estimates for the projects.</para>
+        <section>
+            <title>Historical data used for estimates</title>
+            <para>Describes the historical data that is relevant to the estimates presented.</para>
+        </section>
+        <section>
+            <title>Estimation techniques applied and results</title>
+            <para>A description of each estimation technique and the resultant estimates are presented here.</para>
+        </section>
+        <section>
+            <title>Reconciled Estimate</title>
+            <para>The final cost, effort, time (duration) estimate for the project (at this point in time) is presented here.</para>
+        </section>
+        <section>
+            <title>Project Resources</title>
+            <para>People, hardware, software, tools, and other resources required to build the software are noted here.</para>
+        </section>
+    </chapter>
+    
+    <chapter>
+        <title>Risk Management</title>
+        <para>This section discusses project risks and the approach to managing them.</para>
+        <section>
+            <title>Project Risks</title>
+            <para>Each project risk is described. The CTC format may be used.</para>
+        </section>
+        <section>
+            <title>Risk Table</title>
+            <para>The complete risk table is presented. Name of risk, probability, impact and RM3 pointer are provided.</para>
+        </section>
+        <section>
+            <title>Overview of Risk Mitigation, Monitoring, Management</title>
+            <para>An overview of RM3 is provided here. The Complete RM3 is provided as a separate document or as a set of Risk Information Sheets.</para>
+        </section>
+    </chapter>
+    
+    <chapter>
+        <title>Project Schedule</title>
+        <para>This section presents an overview of project tasks and the output of a project scheduling tool.</para>
+        <section>
+            <title>Project task set</title>
+            <para>The process model, framework activities and task set that have been selected for the project are presented in this section.</para>
+        </section>
+        <section>
+            <title>Functional decomposition</title>
+            <para>A functional breakdown to be used for scheduling is presented here.</para>
+        </section>
+        <section>
+            <title>Task network</title>
+            <para>Project tasks and their dependencies are noted in this diagrammatic form.</para>
+        </section>
+        <section>
+            <title>Timeline chart</title>
+            <para>A project timeline chart is presented. This may include a time line for the entire project or for each staff member.</para>
+        </section>
+    </chapter>
+    
+    <chapter>
+        <title>Staff Organization</title>
+        <para>The manner in which staff are organized and the mechanisms for reporting are noted.</para>
+        <section>
+            <title>Team structure</title>
+            <para>The team structure for the project is identified. Roles are defined.</para>
+        </section>
+        <section>
+            <title>Management reporting and communication</title>
+            <para>Mechanisms for progress reporting and inter/intra team communication are identified.</para>
+        </section>
+    </chapter>
+    
+    <chapter>
+        <title>Tracking and Control Mechanisms</title>
+        <para>Techniques to be used for project tracking and control are identified.</para>
+        <section>
+            <title>Quality assurance and control</title>
+            <para>An overview of SQA activities is provided. Note that an SQA Plan is developed for a moderate to large project and may be a separate document or included as an appendix.</para>
+        </section>
+        <section>
+            <title>Change management and control</title>
+            <para>An overview of SCM activities is provided. Note that an SCM Plan is developed for a moderate to large project and may be a separate document or included as an appendix.</para>
+        </section>
+    </chapter>
+    <appendix>
+        <title>Complete RM3</title>
+        <para></para>
+        <title></title>
+    </part>
+</book>
