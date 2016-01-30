@@ -1,0 +1,1 @@
+This project aims to implement some basic functions of the famous game Angry Birds in C++. Indeed, the project is given as an assignment for the course Software Engineering at Istanbul Technical University. All the members of Group I own this project.
